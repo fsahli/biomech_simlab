@@ -1,0 +1,6 @@
+name: fenics
+channels:
+  - conda-forge
+dependencies:
+  - fenics
+  - matplotlib
